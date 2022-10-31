@@ -1,0 +1,8 @@
+Ruas = [
+{"Endereço": {"PADRE OLIVEIRA":"8h:30m",
+"UNIAO DA VITORIA":"8h:40m",
+"MARIA ANDRADE":"8h:45m",
+"CORREGO DE EUCLIDES":"8h:54m",
+"CORREGO DO BARTOLOMEU":"9h:05m"},
+}
+]
